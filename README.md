@@ -1,4 +1,5 @@
 
+### NB: This was forked from github but not cloned. The code wad done by following the video by John Smilga
 
 Javascript Nuggets - Promises Example
 
