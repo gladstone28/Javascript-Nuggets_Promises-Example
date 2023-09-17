@@ -28,3 +28,8 @@ Second Monitor - LG 4K UHD 27UD88 - https://amzn.to/3ckdwdV
 Wifi Router - TP-Link AC1900 - https://amzn.to/34ZSddz
 Desk Chair - https://amzn.to/3ikNbQJ 
 Standing Desk - https://amzn.to/3zdKVAJ
+
+
+memory jog:
+
+/c/Users/glads/Downloads/Javascript-Nuggets_Promises-Example
