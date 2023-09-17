@@ -30,6 +30,4 @@ Desk Chair - https://amzn.to/3ikNbQJ
 Standing Desk - https://amzn.to/3zdKVAJ
 
 
-memory jog:
 
-/c/Users/glads/Downloads/Javascript-Nuggets_Promises-Example
